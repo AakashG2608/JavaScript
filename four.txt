@@ -1,0 +1,22 @@
+Expressions:-
+
+An expression is a combination of values, variables, and operators, which computes to a value.
+Example:- !true => false;
+
+Operators:-
+
+They are used to perform some operations between two or more operands.
+
+1. Arithmetic Operators-
++, -, *, /, **, %, ++, --
+
+2. Assignment Operators-
+=, +=, -=, *=, /=, 
+
+3. Comparison Operator
+==, !=, ===, !==, <, >, <=, >=, ?(Ternary Operator)
+
+4. Logical Operator
+&&, ||, !
+
+5. Bitwise Operator

@@ -1,0 +1,5 @@
+1. Create a variable of type string and try to add a number to it.
+2. Use typeof operator to find the datatype of the result in last question.
+3. Create a const object in JS. Can this object hold a number later?
+4. Try to add a new key to the const object in Problem 3. Were you able to do it?
+5. Write a JS Program to create a word-meaning dictionary.

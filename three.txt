@@ -1,0 +1,19 @@
+Primitive Datatypes:-
+
+Primitive datatypes are the fundamental or basic datatypes that are built in or available in JS.
+There are 7 Prmitive datatypes in JS:-
+1. Null - must be defined explicitly.
+2. Number
+3. Symbol
+4. string
+5. Boolean
+6. BigInt
+7. Undefined - no need to be explicitly defined.
+
+Non-Primitive Datatypes:-
+
+1. Object - It is a collection of key-value pair.
+const obj = {
+    name: 'Aakash',
+    age: 24
+}

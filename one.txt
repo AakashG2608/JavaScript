@@ -1,0 +1,43 @@
+Introduction To Programming:-
+
+1. Programming is a way to talk to computers like we talk to each other in our own languages and let it know what is to be done and how it is to be done.
+2. It is an act of constructing a program, a set of precise instructions that tells the computer what to do and how to do.
+3. Computer is dumb! But We use it for the speed and acuuracy. Computer is not smarter than Humans.
+
+Algorithm:-
+
+Algorithm is a set of finite sequence of steps that helps us to solve a particular problem and needs a program to implement it.
+
+IDE:-
+
+1. IDE stands for Integrated Development Environnment.
+2. It is an environment or a place where developers or programmers can write their code.
+
+EcmaScript:-
+
+Ecmascript is a standard on which JavaScript is based!
+It was cretaed to ensure that different documents on JS are actually talking about the same language.
+
+What is JS?
+
+1. JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.
+2. As of 2023, 98.7% of websites use JavaScript on the client side.
+3. JS is a dynamically typed languange (not a static typed) means you can change the datatype of a variable at the runtime (no need to declare first).
+4. There are some rules like we have in grammer that needs to be followed to write a program known as Syntax. 
+    4.1 console.learn('Hello');
+5. JS is a case-sensitive language. means aakash and Aakash will be considered as different.
+
+How to execute JS?
+
+1. Inside Browser Console - console.log('Hello');
+2. With the help of Node.js - which is a JS runtime that needs to be installed and used to run JS code.
+    2.1- Ryan Dahl implemented Node.js by placing the Browser's v8 engine in C Program. So that JS can be run outside Browser.
+3. Inside HTML Code - using <script> tag.
+4. Replit - online editor to run your code. - helpful for those not having laptop or low configurations laptop.
+
+Comments in JS:-
+Comments are used to tell the intrepreter that these lines are for the developers to help them and sometimes yourself and need not to be executed.
+
+Comments are of 2 types:-
+1. Single Line Comment - //Hello
+2. Mult Line Comment - /*Hello*/

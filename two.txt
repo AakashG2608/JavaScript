@@ -1,0 +1,28 @@
+Variables:-
+
+Variables are the containers that are used to store values of any datatype like string, integer, number, array, float, character, and etc.
+
+Datatype:
+
+It is used to specify the type of the data.
+It is of 2 type:-
+1. Primitive Datatype
+2. Non-Primitive Datatype
+
+Example:-
+
+var a = 3; => Variable Declaration
+    where a is a variable or identfier, = is assignment operator, and 3 is the value or literal.
+example- Blank Cartoon is a variable. and then label on it is identfier.
+
+Rules for choosing varaible names:-
+1. Can start with letter, _, $.
+2. Cannot start with Number.
+
+Difference between let, var, and const:-
+
+1. Var was user before the ES6 version of JS. Now it is depreciated. It is a globally scoped variable from ES6.
+2. Const is used to declare constants. Used where you will not changed your varaible value throughtout the whole program.
+3. Let is used to declare block scoped variables.
+4. let and const are scoped variables.
+5. const variable must be defined.
