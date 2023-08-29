@@ -1,0 +1,7 @@
+Conditional Statements:-
+
+CS are those statements that executed based on some conditions. Sometimes we have to execute a block of code based on some conditions.
+
+1. if.
+2. if-else.
+3. if-else ladder.

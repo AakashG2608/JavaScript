@@ -1,0 +1,24 @@
+Loops:-
+
+1. Loops are used to iterate an iterable objects.
+2. Used to repeat something over an over. can be finite and infinite.
+Example-    print 1 to 100
+
+Types of Loop:-
+1. For Loop - loop a block of code no. of times
+for (initialization, condition, increment/decrement){}
+
+2. For in Loop - loop through the keys of an object
+for (let a in obj){}
+
+3. for of loop - loop through the values of an object(must be string or an array)
+for (let a of 'Aakash'){}
+
+4. while loop
+while (a<5){}
+
+5. do while loop - execute atleast one time
+do{
+    console.log();
+}
+while (a<5);

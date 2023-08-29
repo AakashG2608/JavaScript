@@ -1,0 +1,15 @@
+Functions:-
+
+Functions are the block of code that is designed to perform a particular task and written for the purpose of reusability and separation of logic.
+It can be treated as a black box that can take some inputs, perform actions, and then return some output.
+Example:-
+function fun(param1, param2){}
+where param1, and param2 are local variables now.
+fun(1, 2) - Known as Function Invocation
+
+Example2:-
+const fun = (a, b) => {
+let c = a+b;
+return c;
+}
+fun(1, 2);
